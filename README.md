@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin Suvarna
-- 🌱 I’m currently learning B.Tech in National Institute of Technology Karnataka
+- 🌱 I’m currently pursuing B.Tech in the National Institute of Technology Karnataka
 - 📫 You can reach me through my email jatinsuvarna740@gmail.com
 
 <!---
